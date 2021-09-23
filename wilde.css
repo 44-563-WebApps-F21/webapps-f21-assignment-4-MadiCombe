@@ -22,6 +22,11 @@
     color: black;
 }
 
+.name:hover{
+    text-shadow: 2px gray;
+    border: darkturquoise;
+}
+
 .ladyhunstanton{
     color: yellow;
 }
