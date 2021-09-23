@@ -38,3 +38,14 @@
     color: lightblue;
 }
 
+table{
+    border: 3px solid purple;
+    text-align: center;
+    padding: 15px;
+    width: 55%;
+
+}
+
+tr:nth-child(even){
+    background-color: lightyellow;
+}
